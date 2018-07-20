@@ -1,0 +1,6 @@
+http://www.powershellmagazine.com/2014/03/18/writing-a-powershell-module-in-c-part-1-the-basics/
+https://www.red-gate.com/simple-talk/dotnet/net-development/using-c-to-create-powershell-cmdlets-the-basics/
+https://docs.microsoft.com/en-us/powershell/developer/module/writing-a-windows-powershell-module
+
+http://sanganakauthority.blogspot.com/2014/01/how-to-build-solution-using-c-code-in.html
+
